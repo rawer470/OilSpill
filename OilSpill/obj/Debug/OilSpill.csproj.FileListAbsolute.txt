@@ -1,0 +1,15 @@
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\bin\Debug\OilSpill.exe.config
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\bin\Debug\OilSpill.exe
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\bin\Debug\OilSpill.pdb
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill.csproj.AssemblyReference.cache
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\MainWindow.g.cs
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\App.g.cs
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill_MarkupCompile.cache
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill_MarkupCompile.lref
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\MainWindow.baml
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill.g.resources
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill.Properties.Resources.resources
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill.csproj.GenerateResource.cache
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill.csproj.CoreCompileInputs.cache
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill.exe
+D:\Программы\Visual Studio\Project\OilSpill\OilSpill\obj\Debug\OilSpill.pdb
