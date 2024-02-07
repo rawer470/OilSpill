@@ -15,6 +15,6 @@
         <Button x:Name="Modeling" Content="Modeling" Canvas.Left="14" Canvas.Top="62" HorizontalAlignment="Left" VerticalAlignment="Center" Width="131" Click="Modeling_Click"/>
         <Label FontSize="30" Width="204" Height="55" Canvas.Left="656" Canvas.Top="27" Name="Radius" Content="R = ..." HorizontalAlignment="Left" VerticalAlignment="Center"/>
         <Label Content="TimesScroll:" FontSize="15" Canvas.Left="14" Canvas.Top="524" HorizontalAlignment="Center" VerticalAlignment="Top"/>
-        <TextBox Name="TimesScroll" Width="70" Canvas.Left="107" Canvas.Top="532" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <TextBox Name="TimesScroll" Width="70" Canvas.Left="107" Canvas.Top="532" HorizontalAlignment="Center" VerticalAlignment="Top" Text="1"/>
     </Canvas>
 </Window>
